@@ -1,0 +1,4 @@
+- dogs
+- chocolate
+- video games
+- sports
